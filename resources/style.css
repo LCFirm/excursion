@@ -3,11 +3,12 @@ html {
     background-color: black;
     text-align: center;
     font-family: Verdana;
+    color:white;
 }
 /* Body Rules */
 
 header {
-    color: white;
+    
     font-size: 50px;
     font-weight: normal;
 }
@@ -16,3 +17,14 @@ header {
     color: aquamarine;
     font-size: 16px;
 }
+
+.middlesectiontext {
+    font-size: 21px;
+    color:gray;
+}
+h1 {
+    font-weight: 300;
+    font-size: 42px;
+    
+}
+
